@@ -1,4 +1,4 @@
-Chapter 5: Navigating Digital Disruption: Understanding the Impact of Digital Disruption on Business
+Understanding the Impact of Digital Disruption on Business
 ====================================================================================================
 
 Digital disruption is transforming industries and creating new opportunities and challenges for businesses. Effective digital leadership requires understanding the impact of digital disruption on business and developing strategies to navigate this changing landscape. In this chapter, we will explore the impact of digital disruption on business, including changing customer expectations, new business models, and the need for agility.

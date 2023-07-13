@@ -1,4 +1,4 @@
-Chapter 2: Defining Digital Leadership: Overview of Digital Leadership
+Overview of Digital Leadership
 ======================================================================
 
 Defining digital leadership is essential for effective leadership in the modern age. In this chapter, we will provide an overview of digital leadership.

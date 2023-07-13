@@ -1,4 +1,4 @@
-Chapter 6: Ethical Considerations in Digital Leadership: Understanding the Importance of Ethics in Digital Leadership
+Understanding the Importance of Ethics in Digital Leadership
 =====================================================================================================================
 
 Ethical considerations are critical for effective digital leadership in the modern age. In this chapter, we will explore the importance of ethics in digital leadership and strategies for understanding ethical considerations.

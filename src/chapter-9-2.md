@@ -1,4 +1,4 @@
-Chapter 9: Overcoming Challenges and Barriers: Managing Limited Resources and Budget Constraints
+Managing Limited Resources and Budget Constraints
 ================================================================================================
 
 Limited resources and budget constraints are common challenges organizations face when navigating digital transformation. In this chapter, we will explore strategies for managing limited resources and budget constraints.

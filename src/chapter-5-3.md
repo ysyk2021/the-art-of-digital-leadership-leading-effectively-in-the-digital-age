@@ -1,4 +1,4 @@
-Chapter 5: Navigating Digital Disruption: Managing Risk and Uncertainty During Times of Rapid Change
+Managing Risk and Uncertainty During Times of Rapid Change
 ====================================================================================================
 
 Digital disruption is a reality that all organizations must face in the digital age. As new technologies emerge and customer expectations evolve, companies must be able to adapt quickly and effectively to stay ahead of the competition. However, with rapid change comes risk and uncertainty, and leaders must be able to manage these challenges in order to succeed.

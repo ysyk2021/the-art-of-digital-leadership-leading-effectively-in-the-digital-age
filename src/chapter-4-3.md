@@ -1,4 +1,4 @@
-Chapter 4: Managing Digital Teams: Developing Strong Communication and Collaboration Among Team Members
+Developing Strong Communication and Collaboration Among Team Members
 =======================================================================================================
 
 Digital transformation requires high-performing digital teams that are skilled, collaborative, and adaptable. Effective communication and collaboration among team members are critical for success in digital transformation. In this chapter, we will explore strategies for developing strong communication and collaboration among team members, including utilizing digital tools, fostering a culture of open communication, promoting knowledge sharing, and building trust.

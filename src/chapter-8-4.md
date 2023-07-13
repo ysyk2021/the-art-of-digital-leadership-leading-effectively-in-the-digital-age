@@ -1,4 +1,4 @@
-Chapter 8: Measuring Results and Learning from Experience: Adapting to Changes in the Workplace
+Adapting to Changes in the Workplace
 ===============================================================================================
 
 In the digital age, change is constant. Effective digital leaders must be able to measure results and learn from their experiences in order to adapt to new challenges and opportunities.

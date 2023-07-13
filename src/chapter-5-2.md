@@ -1,4 +1,4 @@
-Chapter 5: Navigating Digital Disruption: Addressing Challenges and Opportunities Presented by Disruption
+Addressing Challenges and Opportunities Presented by Disruption
 =========================================================================================================
 
 Digital disruption is a constant challenge for leaders in the digital age. Effective navigation of digital disruption involves identifying challenges and opportunities, adapting to change, and embracing innovation. In this chapter, we will explore strategies for navigating digital disruption, including identifying potential disruptions, adapting to change, fostering innovation, and building resilience.

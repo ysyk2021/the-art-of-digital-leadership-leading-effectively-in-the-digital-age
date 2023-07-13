@@ -1,4 +1,4 @@
-Chapter 3: Leading Digital Transformation: Creating a Culture that Embraces Innovation and Change
+Creating a Culture that Embraces Innovation and Change
 =================================================================================================
 
 Digital transformation requires more than just implementing new technology -- it requires creating a culture that embraces innovation and change. Effective digital leadership involves creating a culture that fosters experimentation, agility, and continuous learning. In this chapter, we will explore strategies for creating a culture that embraces innovation and change, including promoting experimentation, cultivating agility, and investing in learning and development.

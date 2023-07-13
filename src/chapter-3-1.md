@@ -1,4 +1,4 @@
-Chapter 3: Leading Digital Transformation: Strategies for Leading Digital Transformation
+Strategies for Leading Digital Transformation
 ========================================================================================
 
 Digital transformation is essential for organizations to remain competitive in the digital age. In this chapter, we will explore strategies for leading digital transformation.

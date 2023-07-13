@@ -1,4 +1,4 @@
-Chapter 8: Measuring Results and Learning from Experience: Continuous Learning and Improvement
+Continuous Learning and Improvement
 ==============================================================================================
 
 Continuous learning and improvement is essential for effective digital leadership. In this chapter, we will explore the importance of continuous learning and improvement in measuring results and learning from experience.

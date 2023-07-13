@@ -1,4 +1,4 @@
-Chapter 5: Navigating Digital Disruption: Leveraging Digital Disruption for Competitive Advantage
+Leveraging Digital Disruption for Competitive Advantage
 =================================================================================================
 
 Digital disruption is transforming industries and creating new opportunities for organizations to gain a competitive advantage. In this chapter, we will explore strategies for navigating digital disruption and leveraging it for competitive advantage.

@@ -1,4 +1,4 @@
-Chapter 8: Measuring Results and Learning from Experience: Reflection and Self-Evaluation
+Reflection and Self-Evaluation
 =========================================================================================
 
 Measuring results and learning from experience is essential for effective digital leadership. In this chapter, we will explore the importance of reflection and self-evaluation in measuring results and learning from experience.

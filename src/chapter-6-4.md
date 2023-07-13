@@ -1,4 +1,4 @@
-Chapter 6: Ethical Considerations in Digital Leadership: Fostering Diversity and Inclusion in Digital Leadership
+Fostering Diversity and Inclusion in Digital Leadership
 ================================================================================================================
 
 Ethical considerations are critical for effective digital leadership in the digital age. Fostering diversity and inclusion in digital leadership is not only an ethical imperative but also a strategic advantage. In this chapter, we will explore strategies for fostering diversity and inclusion in digital leadership, including building diverse teams, promoting inclusive practices, and addressing biases.

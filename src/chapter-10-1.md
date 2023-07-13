@@ -1,4 +1,4 @@
-Chapter 10: Conclusion: Recap of Key Digital Leadership Strategies
+Recap of Key Digital Leadership Strategies
 ==================================================================
 
 In this book, we have explored the challenges and opportunities of leading in the digital age. We have discussed how digital technologies are transforming the way organizations operate and how leaders must adapt to remain competitive. In this final chapter, we will recap some of the key digital leadership strategies we have discussed throughout the book.

@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Common Misconceptions About Digital Leadership
+Common Misconceptions About Digital Leadership
 =======================================================================
 
 Digital leadership is a rapidly evolving field, and there are many misconceptions about what it entails. In this chapter, we will explore common misconceptions about digital leadership.

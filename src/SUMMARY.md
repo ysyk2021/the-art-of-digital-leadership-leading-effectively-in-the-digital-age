@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Understanding the Importance of Digital Leadership in Today's Business Environment](chapter-1-1.md)
   - [Common Misconceptions About Digital Leadership](chapter-1-2.md)
   - [Benefits of Effective Digital Leadership](chapter-1-3.md)
@@ -44,8 +43,5 @@
   - [Managing Limited Resources and Budget Constraints](chapter-9-2.md)
   - [Dealing with Cybersecurity Threats and Data Breaches](chapter-9-3.md)
   - [Balancing Innovation with Practicality](chapter-9-4.md)
-- [Chapter 10: Conclusion](chapter-10.md)
-  - [Recap of Key Digital Leadership Strategies](chapter-10-1.md)
-  - [Final Thoughts and Advice](chapter-10-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

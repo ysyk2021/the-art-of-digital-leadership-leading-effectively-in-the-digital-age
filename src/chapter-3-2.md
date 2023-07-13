@@ -1,4 +1,4 @@
-Chapter 3: Leading Digital Transformation: Building a Vision for Digital Change
+Building a Vision for Digital Change
 ===============================================================================
 
 Digital transformation requires leaders to build a vision for digital change that aligns with their organization's goals and values. Effective digital leadership involves developing a clear and compelling vision that inspires and motivates stakeholders to embrace digital transformation. In this chapter, we will explore strategies for building a vision for digital change, including understanding the strategic context, identifying opportunities for innovation, and engaging stakeholders.

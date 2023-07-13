@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Benefits of Effective Digital Leadership
+Benefits of Effective Digital Leadership
 =================================================================
 
 Effective digital leadership is essential for organizations to succeed in the digital age. In this chapter, we will explore the benefits of effective digital leadership.

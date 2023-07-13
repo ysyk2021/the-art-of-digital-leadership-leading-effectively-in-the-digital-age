@@ -1,4 +1,4 @@
-Chapter 2: Defining Digital Leadership: Understanding the Skills and Competencies of Digital Leaders
+Understanding the Skills and Competencies of Digital Leaders
 ====================================================================================================
 
 Defining digital leadership is critical for effective leadership in the modern age. In this chapter, we will explore the skills and competencies of digital leaders.

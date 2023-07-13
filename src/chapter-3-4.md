@@ -1,4 +1,4 @@
-Chapter 3: Leading Digital Transformation: Aligning Digital Strategy with Business Objectives
+Aligning Digital Strategy with Business Objectives
 =============================================================================================
 
 Digital transformation is a continuous process that involves using digital technology to drive innovation, growth, and transformation within an organization. To succeed in digital transformation, leaders must develop a digital strategy that aligns with the organization's business objectives. In this chapter, we will explore the importance of aligning digital strategy with business objectives, strategies for developing a digital strategy, and tips for implementing digital transformation successfully.

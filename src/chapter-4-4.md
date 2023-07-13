@@ -1,4 +1,4 @@
-Chapter 4: Managing Digital Teams: Fostering Creativity and Innovation
+Fostering Creativity and Innovation
 ======================================================================
 
 Digital teams are at the forefront of driving innovation and digital transformation. Effective digital leadership involves managing digital teams in a way that fosters creativity and innovation. In this chapter, we will explore strategies for managing digital teams to foster creativity and innovation, including promoting collaboration, providing autonomy, and encouraging experimentation.
