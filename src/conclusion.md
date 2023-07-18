@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 10: Conclusion
-======================
-
 Effective digital leadership is essential for organizations to succeed in the digital age. In this book, we have explored key strategies for leading digital transformation, navigating digital disruption, and assessing and improving personal digital leadership style. In this chapter, we will recap these key strategies and offer final thoughts and advice.
 
 Recap of Key Digital Leadership Strategies
