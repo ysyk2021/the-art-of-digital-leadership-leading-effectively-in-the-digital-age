@@ -1,0 +1,1 @@
+for the book "the art of digital leadership leading effectively in the digital age", write a chapter: "utilizing social media and other digital channels for communication".  Use Markdown format. Use English.
