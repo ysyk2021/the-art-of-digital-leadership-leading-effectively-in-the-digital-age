@@ -1,5 +1,3 @@
-Chapter 2: Defining Digital Leadership
-======================================
 
 Digital leadership is a critical skill for leaders in the digital age. In this chapter, we will provide an overview of digital leadership, explore the skills and competencies required of digital leaders, and discuss how to assess your personal digital leadership style.
 

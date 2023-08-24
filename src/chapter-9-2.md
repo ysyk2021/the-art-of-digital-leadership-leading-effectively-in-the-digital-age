@@ -1,5 +1,3 @@
-Managing Limited Resources and Budget Constraints
-=============================================================
 
 In the digital age, leaders are often faced with the challenge of managing limited resources and budget constraints while driving digital transformation. This chapter explores strategies for effectively managing resources and budget constraints in "The Art of Digital Leadership: Leading Effectively in the Digital Age."
 

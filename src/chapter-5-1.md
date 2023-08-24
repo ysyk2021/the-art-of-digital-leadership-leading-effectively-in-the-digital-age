@@ -1,5 +1,3 @@
-Understanding the Impact of Digital Disruption on Business
-=====================================================================
 
 In the digital age, businesses are faced with the constant challenge of adapting to technological advancements and the resulting digital disruption. This chapter explores the significant impact of digital disruption on various aspects of business and provides insights on how digital leaders can navigate and leverage these disruptions to drive success.
 

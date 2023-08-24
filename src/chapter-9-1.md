@@ -1,5 +1,3 @@
-Addressing Resistance to Digital Change
-======================================================================================
 
 In the digital age, organizations must be willing to adapt and change to remain competitive. However, implementing digital change can be challenging and met with resistance. In this chapter, we will explore some of the challenges and barriers to digital change and strategies for overcoming them.
 

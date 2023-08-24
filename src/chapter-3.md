@@ -1,5 +1,3 @@
-Chapter 3: Leading Digital Transformation
-=========================================
 
 Digital transformation is a complex process that requires strong leadership to be successful. In this chapter, we will explore strategies for leading digital transformation and building a vision for digital change.
 

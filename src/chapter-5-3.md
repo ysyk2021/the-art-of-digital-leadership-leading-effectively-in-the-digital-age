@@ -1,5 +1,3 @@
-Managing Risk and Uncertainty During Times of Rapid Change
-======================================================================
 
 In this chapter, we will explore strategies for managing risk and uncertainty in the digital age, where rapid change has become the norm. As leaders navigate through dynamic and unpredictable environments, the ability to effectively manage risk and uncertainty becomes crucial for success.
 

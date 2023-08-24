@@ -1,5 +1,3 @@
-Assessing Your Personal Digital Leadership Style
-========================================================================================
 
 Assessing your personal digital leadership style is critical for effective leadership in the modern age. In this chapter, we will explore strategies for assessing your personal digital leadership style.
 

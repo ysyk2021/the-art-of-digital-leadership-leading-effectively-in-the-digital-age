@@ -1,5 +1,3 @@
-Chapter 5: Navigating Digital Disruption
-========================================
 
 Digital disruption is transforming industries and challenging conventional business models. In this chapter, we will explore strategies for navigating digital disruption.
 

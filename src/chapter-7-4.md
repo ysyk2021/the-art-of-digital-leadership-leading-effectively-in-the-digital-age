@@ -1,5 +1,3 @@
-Handling Crisis Communication in the Digital Age
-=======================================================================================================
 
 In the digital age, a crisis can quickly escalate and damage a company's reputation. Effective communication is critical for handling crisis communication in the digital age, as it involves managing public perception, addressing concerns, and providing accurate information. In this chapter, we will explore strategies for handling crisis communication in the digital age, including developing a crisis communication plan, responding promptly, being transparent, and leveraging social media.
 

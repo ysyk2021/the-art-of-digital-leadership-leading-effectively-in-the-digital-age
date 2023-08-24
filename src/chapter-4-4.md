@@ -1,5 +1,3 @@
-Fostering Creativity and Innovation
-==============================================
 
 In the digital age, creativity and innovation are critical drivers of success for organizations. This chapter explores the importance of fostering creativity and innovation in digital leadership. It delves into strategies and techniques that leaders can employ to create an environment that nurtures and encourages creative thinking and innovation.
 

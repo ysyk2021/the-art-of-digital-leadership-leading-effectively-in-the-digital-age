@@ -1,5 +1,3 @@
-Chapter 7: Effective Communication in the Digital Age
-=====================================================
 
 Communication is a critical component of leadership, and it has become even more critical in the digital age. With the rise of social media, email, and other digital channels, effective communication is essential for leaders to connect with their teams and stakeholders. In this chapter, we will explore some strategies for effective communication in the digital age.
 

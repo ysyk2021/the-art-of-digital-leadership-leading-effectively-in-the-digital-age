@@ -1,5 +1,3 @@
-Chapter 6: Ethical Considerations in Digital Leadership
-=======================================================
 
 Digital leadership requires ethical considerations to ensure responsible and sustainable digital transformation. In this chapter, we will explore strategies for addressing ethical considerations in digital leadership.
 

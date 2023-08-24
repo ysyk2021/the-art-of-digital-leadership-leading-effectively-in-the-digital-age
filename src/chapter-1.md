@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In today's rapidly changing business environment, digital transformation is no longer an option, but a necessity. Digital technology has disrupted traditional business models and created new opportunities for growth and innovation. However, navigating this digital landscape requires strong leadership that understands the potential of technology and can lead teams through digital transformation. In this chapter, we will explore the importance of digital leadership, common misconceptions about digital leadership, and the benefits of effective digital leadership.
 

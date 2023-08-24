@@ -1,5 +1,3 @@
-Chapter 4: Managing Digital Teams
-=================================
 
 Managing digital teams is a critical aspect of effective digital leadership. In this chapter, we will explore strategies for managing digital teams.
 

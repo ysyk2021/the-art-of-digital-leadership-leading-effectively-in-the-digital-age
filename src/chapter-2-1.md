@@ -1,5 +1,3 @@
-Overview of Digital Leadership
-=========================================
 
 In today's rapidly evolving digital age, effective leadership requires a deep understanding of the opportunities and challenges presented by technology and digital transformation. This chapter provides an overview of digital leadership, exploring its definition, key characteristics, and the evolving role of leaders in the digital era.
 

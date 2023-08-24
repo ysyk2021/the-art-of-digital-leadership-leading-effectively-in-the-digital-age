@@ -1,5 +1,3 @@
-Chapter 8: Measuring Results and Learning from Experience
-=========================================================
 
 Measuring results and learning from experience is essential for effective digital leadership. In this chapter, we will explore strategies for measuring results and learning from experience.
 
